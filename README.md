@@ -3,8 +3,11 @@
 ## Team- FusionFreaks
 
 Team Leader - Kinshuk Garg
+
 Backend Developer - Tanishk Sarraf
+
 Frontend Developer - Siddharth Mishra
+
 App Developer - Garv Kaushik
 
 ## Project Overview
