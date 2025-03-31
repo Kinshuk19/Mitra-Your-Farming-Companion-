@@ -1,5 +1,12 @@
 # Mitra - Your Farming Companion 🌾
 
+## Team- FusionFreaks
+
+Team Leader - Kinshuk Garg
+Backend Developer - Tanishk Sarraf
+Frontend Developer - Siddharth Mishra
+App Developer - Garv Kaushik
+
 ## Project Overview
 
 Mitra is a comprehensive agricultural assistance platform designed to empower farmers with real-time information and AI-powered insights. The application provides weather forecasts, market prices, and crop-specific advisory services in both English and Hindi.
